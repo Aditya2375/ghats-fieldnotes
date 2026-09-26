@@ -6,4 +6,4 @@ An editorial trekking journal prototype for Aditya. All entries, distances, elev
 `npm install && npm run dev`
 
 ## Customize
-Edit `src/data.js` for the three starter stories, replace `assets/` with your own photography, and revise the header/intro. Visitors can add their own local draft in the browser; drafts stay on that device. No account, backend, or sync. `npm run build` produces `dist/`.
+Edit `src/data.js` for the three starter stories, replace `public/assets/` with your own photography, and revise the header/intro. Visitors can add their own local draft in the browser; drafts stay on that device. No account, backend, or sync. `npm run build` produces `dist/`.

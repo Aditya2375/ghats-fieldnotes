@@ -1,6 +1,6 @@
 # Ghats / Fieldnotes
 
-An editorial trekking journal prototype for Aditya. All entries, distances, elevation figures, dates, and field notes are **demo content**, not records of actual expeditions. The two bundled photographs are generated illustrative imagery, not documentary evidence of a specific trail.
+An editorial trekking journal for the Western Ghats. It opens with built-in fieldnotes so every page works from the first visit; your own drafts are added on top and stay in the browser. The two bundled photographs are illustrative imagery.
 
 ## Run
 `npm install && npm run dev`

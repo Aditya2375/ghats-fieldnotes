@@ -3,7 +3,7 @@ import { journeys } from './data.js';
 const app=document.querySelector('#app');
 const stored=()=>{try{return JSON.parse(localStorage.getItem('ghats-drafts')||'[]')}catch{return []}};
 let filter='All', modal=null;
-const images={ridge:'/assets/ridgeline.png',forest:'/assets/forest.png'};
+const images={ridge:'/ghats-fieldnotes/assets/ridgeline.png',forest:'/ghats-fieldnotes/assets/forest.png'};
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const all=()=>[...stored(),...journeys];
 const link=id=>`#story/${encodeURIComponent(id)}`;

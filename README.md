@@ -2,6 +2,8 @@
 
 An editorial trekking journal for the Western Ghats. It opens with built-in fieldnotes so every page works from the first visit; your own drafts are added on top and stay in the browser. The two bundled photographs are illustrative imagery.
 
+Live: https://aditya2375.github.io/ghats-fieldnotes/
+
 ## Run
 `npm install && npm run dev`
 

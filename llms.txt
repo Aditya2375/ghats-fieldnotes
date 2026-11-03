@@ -1,0 +1,5 @@
+# Ghats / Fieldnotes
+
+https://aditya2375.github.io/ghats-fieldnotes/
+
+Built-in stories, distances and photographs are illustrative, not verified trail records. Visitor notes are unverified. Not navigation or safety guidance. New notes default to local drafts; sharing publicly is optional. Browser storage is not a backup.
